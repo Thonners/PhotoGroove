@@ -2,3 +2,5 @@
 elm-stuff
 # elm-repl generated files
 repl-temp-*
+# The actual app, which can just be regenerated
+app.js
